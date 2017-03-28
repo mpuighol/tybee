@@ -1,4 +1,4 @@
-<img src="https://github.com/jlurie/tybee/blob/master/lighthouse.png" alt="lighthouse" width="300"/>
+<img src="https://github.com/jlurie/tybee/blob/master/lighthouse.png" alt="lighthouse" height="250"/>
 
 # `tybee`
 A Python package to analyze *Kepler* eclipsing binaries with Gamma Doradus and Delta Scuti pulsators.
